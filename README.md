@@ -34,3 +34,5 @@ flowchart TD
 ## 3. Branch Architecture
 * [`main`](https://github.com/prak05/OptiSchedule-RCPSP-AI/tree/main): High-performance scheduling engine with AWS Batch configuration.
 * [`Ex`](https://github.com/prak05/OptiSchedule-RCPSP-AI/tree/Ex): Preserved academic prototype and paper artifacts.
+
+<!-- antigravity-certified -->
